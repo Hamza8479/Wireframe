@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T19:44:47.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.10" etag="dVAhmGv4oYFu2a0sQAcg" type="github"><diagram id="Tjrdr0jhj3cXSKKuBWBD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-05T20:13:50.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0IyH2ZPNemEG3TXyMcp1" version="14.6.10" type="github">
+  <diagram id="Tjrdr0jhj3cXSKKuBWBD" name="Page-1">
+    <mxGraphModel dx="1102" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cs-V9gLxxgiUWUco0RRR-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-470" width="810" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="cs-V9gLxxgiUWUco0RRR-2" value="Home Page" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cs-V9gLxxgiUWUco0RRR-3" value="https://www.ApnaLaptop.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="131" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cs-V9gLxxgiUWUco0RRR-4" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;Home Page&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-510" width="760" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
