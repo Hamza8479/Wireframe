@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T11:49:41.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pJ6qLTc9KvxJQ3E81VRU" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T09:54:12.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XW4h9DWoW3cPRNe8o7v2" version="14.7.2" type="github">
   <diagram id="Tjrdr0jhj3cXSKKuBWBD" name="Page-1">
-    <mxGraphModel dx="1102" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,20 +245,20 @@
         <mxCell id="W26dKdGHncR4vIZTcDP--3" value="NavBar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
           <mxGeometry x="357" y="221.47222222222226" width="40" height="29.777777777777782" as="geometry" />
         </mxCell>
-        <mxCell id="rvzW5pbStZfOvD73coGG-7" value="Banner" style="rounded=0;whiteSpace=wrap;html=1;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
+        <mxCell id="rvzW5pbStZfOvD73coGG-7" value="Recommended Laptops&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
           <mxGeometry x="163" y="255.81818181818184" width="540" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="LQnwXh3ZWeQ7ObOw8D-4-1" value="More Laptops" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rvzW5pbStZfOvD73coGG-1">
+        <mxCell id="LQnwXh3ZWeQ7ObOw8D-4-1" value="More Laptops" style="rounded=0;whiteSpace=wrap;html=1;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
           <mxGeometry x="163" y="549.18" width="547" height="80.82" as="geometry" />
+        </mxCell>
+        <mxCell id="0r176WqpqCXm21zEDnLY-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
+          <mxGeometry x="173" y="330" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dp7MG19WvMyc6v9N3XUq-1" value="SideBar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rvzW5pbStZfOvD73coGG-1" vertex="1">
+          <mxGeometry x="188" y="364" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cs-V9gLxxgiUWUco0RRR-4" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;Home Page&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="30" y="-510" width="760" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0r176WqpqCXm21zEDnLY-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1640" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Dp7MG19WvMyc6v9N3XUq-1" value="SideBar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="265" y="1680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PxA2PUMU--KZjBLp6w8u-1" value="Display Grid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="1630" width="180" height="30" as="geometry" />
