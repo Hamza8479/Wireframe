@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T09:14:42.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="45l8we_HyTDx7_Riw7oi" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T09:16:11.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="If-dBNQtAM8dwIGnkpux" version="14.7.6" type="github">
   <diagram id="Tjrdr0jhj3cXSKKuBWBD" name="Page-1">
     <mxGraphModel dx="1102" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -331,6 +331,18 @@
         </mxCell>
         <mxCell id="peOR1bnysfdwUNN4xmji-29" value="Home Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
           <mxGeometry x="540.25" y="3990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="peOR1bnysfdwUNN4xmji-30" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="332.4" y="3680" width="78.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peOR1bnysfdwUNN4xmji-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="356.9" y="3720" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="peOR1bnysfdwUNN4xmji-32" value="Layout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="333.29999999999995" y="3770" width="88.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="peOR1bnysfdwUNN4xmji-35" value="Flow of site&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cs-V9gLxxgiUWUco0RRR-1">
+          <mxGeometry x="41.75" y="3660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cs-V9gLxxgiUWUco0RRR-4" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;Home Page&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="30" y="-510" width="760" height="20" as="geometry" />
